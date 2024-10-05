@@ -1,7 +1,7 @@
 👋 Hi, I’m @Zinnia-aster
-👀 I’m interested in machine learning and data science 
+👀 I’m interested in machine learning and data science projects
 🌱 I’m currently learning neural network concepts 
-💞️ I’m looking to collaborate on predictive analytics and machine learning projects 
+💞️ I’m looking to collaborate on predictive analytics and machine learning projects. 
 
 
 <!---
