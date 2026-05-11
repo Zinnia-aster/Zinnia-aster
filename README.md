@@ -30,6 +30,5 @@ I enjoy working on projects involving:
 
 ## Connect
 
-- LinkedIn
-- Email
-- Portfolio (future)
+- LinkedIn [www.linkedin.com/in/priya-dharshini-5179932a3]
+- Email [hermoine26112005@gmail.com]
