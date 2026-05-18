@@ -20,14 +20,6 @@ I enjoy working on projects involving:
 - scikit-learn
 - Git & GitHub
 
-## Current Focus
-
-- Deep Learning fundamentals
-- Model training & optimization
-- Computer Vision
-- AI engineering workflows
-- Building deployable ML systems
-
 ## Connect
 
 - LinkedIn [www.linkedin.com/in/priya-dharshini-5179932a3]
